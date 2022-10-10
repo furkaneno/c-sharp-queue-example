@@ -1,0 +1,8 @@
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\bin\Debug\c sharp kuyruk ornek.exe.config
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\bin\Debug\c sharp kuyruk ornek.exe
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\bin\Debug\c sharp kuyruk ornek.pdb
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\obj\Debug\c sharp kuyruk ornek.csproj.AssemblyReference.cache
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\obj\Debug\c sharp kuyruk ornek.csproj.SuggestedBindingRedirects.cache
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\obj\Debug\c sharp kuyruk ornek.csproj.CoreCompileInputs.cache
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\obj\Debug\c sharp kuyruk ornek.exe
+D:\1 PROGRAMmING\C sharp\c sharp kuyruk ornek\obj\Debug\c sharp kuyruk ornek.pdb
